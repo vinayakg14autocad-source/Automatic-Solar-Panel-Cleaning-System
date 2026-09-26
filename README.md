@@ -65,5 +65,7 @@ Working Principle
 
 The Automatic Solar Panel Cleaning System works by detecting the need for cleaning and activating the cleaning mechanism automatically. The controller operates the motor through a relay, which moves the cleaning brush/wiper across the solar panel surface. Dust and dirt are removed during the movement, after which the mechanism returns to its initial position and stops.
 
+Full Details of project:- https://github.com/vinayakg14autocad-source/Automatic-Solar-Panel-Cleaning-System/blob/main/major%20project.pdf
+
 References
 Wikipedia
