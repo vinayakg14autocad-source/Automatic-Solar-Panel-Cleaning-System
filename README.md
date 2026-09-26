@@ -1,9 +1,9 @@
+<img width="446" height="448" alt="SURE TRUST" src="https://github.com/user-attachments/assets/3910e5fe-5f5a-4e28-817d-e18d6f9a093b" />
 Preview
 
 Code
 
-Blame
-Logo - SURE ProEd
+
 SURE ProEd (formerly SURE Trust)
 Skill Upgradation for Rural youth Empowerment Trust
 Student Details
