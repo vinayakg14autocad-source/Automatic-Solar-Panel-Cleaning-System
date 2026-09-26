@@ -1,12 +1,11 @@
 <img width="446" height="448" alt="SURE TRUST" src="https://github.com/user-attachments/assets/3910e5fe-5f5a-4e28-817d-e18d6f9a093b" />
-Preview
-
-Code
 
 
 SURE ProEd (formerly SURE Trust)
 Skill Upgradation for Rural youth Empowerment Trust
+
 Student Details
+
 Name: VINAYAK VIJAYMAHANTESH KUBAKADDI
 
 Email ID: vinayakg14autocad@gmail.com
@@ -66,3 +65,5 @@ Working Principle
 
 The Automatic Solar Panel Cleaning System works by detecting the need for cleaning and activating the cleaning mechanism automatically. The controller operates the motor through a relay, which moves the cleaning brush/wiper across the solar panel surface. Dust and dirt are removed during the movement, after which the mechanism returns to its initial position and stops.
 
+References
+Wikipedia
