@@ -67,9 +67,12 @@ The Automatic Solar Panel Cleaning System works by detecting the need for cleani
 
 Full Details of project:- https://github.com/vinayakg14autocad-source/Automatic-Solar-Panel-Cleaning-System/blob/main/major%20project.pdf
 
-plantation:-
-blood donation :-
-senior citizens helps:-
+plantation:-https://github.com/vinayakg14autocad-source/Automatic-Solar-Panel-Cleaning-System/blob/main/plantation.jpeg
+
+blood donation :-https://github.com/vinayakg14autocad-source/Automatic-Solar-Panel-Cleaning-System/blob/main/Blood%20Donation.jpeg
+
+
+senior citizens helps:-https://github.com/vinayakg14autocad-source/Automatic-Solar-Panel-Cleaning-System/blob/main/senior%20citizen.jpeg
 
 References
 Wikipedia
